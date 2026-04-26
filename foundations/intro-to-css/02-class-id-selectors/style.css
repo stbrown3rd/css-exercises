@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.style-class{
+    background-color: rgb(255, 202, 194);
+    color: black;
+    font-family: Verdana, "Dejavu Sans", Geneva, Tahoma, sans-serif;
+}
+#first-id{color: blue;
+    font-size: 36px;
+
+}
+.style-class.large{
+    font-size: 24px;}
+
+#second-id{background-color: rgb(160, 232, 160);
+    font-weight:bold;
+
+}
